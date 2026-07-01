@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.0.0",
+  "latest_version_code": 1,
+  "release_notes": "Rilis awal Cryptostrat - analisis on-demand untuk Binance Spot & Futures dengan 9 strategi teknikal dan integrasi Gemini AI.",
+  "download_url": "https://github.com/USERNAME/cryptostrat/releases/latest/download/cryptostrat.apk",
+  "min_supported_version_code": 1,
+  "force_update": false
+}
