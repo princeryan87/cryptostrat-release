@@ -58,6 +58,9 @@ Seluruh data harga, volume, funding rate, dan open interest diambil langsung dar
 
 Project personal, dikembangkan untuk penggunaan pribadi dan komunitas. Saran dan laporan bug bisa disampaikan lewat tab **Issues**.
 
+------------
+untuk aplikasi screening saham ada disini: https://github.com/princeryan87/saham-screener-releases
+
 ---
 
 **Created by:** Muslimin Juni
